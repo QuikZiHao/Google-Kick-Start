@@ -1,3 +1,6 @@
+#author:quikziii
+#https://quikzihao.web.app/
+
 def clockWise(row,col,color,insertpt):
     #print('here2')
     global firstPath,otherPath
